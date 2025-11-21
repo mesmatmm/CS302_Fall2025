@@ -26,7 +26,7 @@
 * Test Bench (Test File): Simulation the circuits behavior.
 * Active-HDL:
   * Compile / Compile All
-  * Library $ \Rightarrow $ Test Bench $ \Rightarrow $ Initialize Simulation
+  * Library $\Rightarrow$ Test Bench $ \Rightarrow $ Initialize Simulation
   * Test Bench $ \Rightarrow $ Add to Waveform
   * Simultation $ \Rightarrow $ Run
   * Waveform = Timing Diagram (Time & Signal Relationship)
@@ -112,6 +112,21 @@ endmodule
 ---
 ### Figure 3.20 (A)
 
-![alt text](Fig_3_20A-1.PNG)
+![alt text](Fig_3_20A.PNG)
 
 ---
+### Files & Tasks
+
+  1- Simple Circuit
+  2- Simple Circuit 2
+  3- UDP_02467
+  4- Test Benches
+
+Tasks:
+  - 3.31 (A)
+  - 3.32 (B)
+  - 3.34
+  - 3.39
+  
+---
+
