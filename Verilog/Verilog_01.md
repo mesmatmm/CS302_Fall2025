@@ -2,8 +2,6 @@
 
 ---
 
----
-
 ## Outline:
 
 * HDL: VERILOG
@@ -18,10 +16,10 @@
 * **Interface** = port list = parameter list
 * Identifier.
 * **System primitives = Built-in Gates = Built-in Primitives**.
-* Different Coding Styles:
-    1- **Gate-level Modeling** = Structural Modeling: Basic Built-in Gates such as **and**, **or**, **not**, **xor**, **nand**, **nor**, **xnor**.
-    2- **Continuous Assignment Statements** = Data Flow Modeling: Using logical operators: and ( **&&** ), or ( **||** ), not ( **!** ).
-    3- **Behavioral Modeling**.
+* 3 Different Coding Styles:
+  - **Gate-level Modeling** = Structural Modeling: Basic Built-in Gates such as **and**, **or**, **not**, **xor**, **nand**, **nor**, **xnor**.
+  - **Continuous Assignment Statements** = Data Flow Modeling: Using logical operators: and ( **&&** ), or ( **||** ), not ( **!** ).
+  - **Behavioral Modeling**.
 * User-defined Primitive.
 * Test Bench (Test File): Simulation the circuits behavior.
 * Active-HDL:
@@ -31,8 +29,6 @@
   * Simultation $\Rightarrow$ Run
   * Waveform = Timing Diagram (Time & Signal Relationship)
   * End Simulation
-    
-
 
 ---
 ## Basics:
@@ -123,10 +119,10 @@ endmodule
   4- Test Benches
 
 Tasks:
-  - 3.31 (A)
-  - 3.32 (B)
-  - 3.34
-  - 3.39
+- 3.31 (A)
+- 3.32 (B)
+- 3.34
+- 3.39
   
 ---
 
