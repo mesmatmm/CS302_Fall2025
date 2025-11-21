@@ -26,9 +26,9 @@
 * Test Bench (Test File): Simulation the circuits behavior.
 * Active-HDL:
   * Compile / Compile All
-  * Library $\Rightarrow$ Test Bench $ \Rightarrow $ Initialize Simulation
-  * Test Bench $ \Rightarrow $ Add to Waveform
-  * Simultation $ \Rightarrow $ Run
+  * Library $\Rightarrow$ Test Bench $\Rightarrow$ Initialize Simulation
+  * Test Bench $\Rightarrow$ Add to Waveform
+  * Simultation $\Rightarrow$ Run
   * Waveform = Timing Diagram (Time & Signal Relationship)
   * End Simulation
     
